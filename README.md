@@ -1,8 +1,11 @@
 <h1 align="center">Hello World!, 👋</h1>
 
 <p align="center">
-  <b>Backend Developer &nbsp;·&nbsp; BS Computer Engineering &nbsp;·&nbsp; POS Builder</b><br/>
-  <sub>I build systems that actually run — not demos, not tutorials. Real money, real inventory, real customers.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Backend+Developer;POS+Builder;BS+Computer+Engineering+%F0%9F%8E%93;I+Build+Systems+That+Actually+Run" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Real money. Real inventory. Real customers. Not a demo.
 </p>
 
 <br/>
