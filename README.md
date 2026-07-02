@@ -1,7 +1,7 @@
-<h1 align="center">Hello World!, 👋</h1>
+<h1 align="center">Hello World!, &#x1F44B;</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Backend+Developer;POS+Builder;BS+Computer+Engineering+%F0%9F%8E%93;I+Build+Systems+That+Actually+Run" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Backend+Developer;POS+Builder;BS+Computer+Engineering;I+Build+Systems+That+Actually+Run" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tech Stacks
+## &#x1F680; Tech Stacks
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🏆 Github Stats
+## &#x1F3C6; Github Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=benjunnel11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 📌 Featured Project
+## &#x1F4CC; Featured Project
 
 <p align="center">
   <a href="https://github.com/benjunnel11/oro-store-demo">
@@ -52,12 +52,11 @@
 ---
 
 <p align="center">
-  <a href="mailto:benjunneloro@gmail.com">📧 benjunneloro@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/benjunneloro">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://resume-plum-xi-57.vercel.app/">🌐 Portfolio</a>
+  <a href="mailto:benjunneloro@gmail.com">&#x1F4E7; benjunneloro@gmail.com</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/benjunneloro">&#x1F4BC; LinkedIn</a> &nbsp;&middot;&nbsp;
+  <a href="https://resume-plum-xi-57.vercel.app/">&#x1F310; Portfolio</a>
 </p>
 
 <p align="center">
-  <sub>Talisay City, Cebu, Philippines 🇵🇭</sub>
+  <sub>Talisay City, Cebu, Philippines &#x1F1F5;&#x1F1ED;</sub>
 </p>
-
